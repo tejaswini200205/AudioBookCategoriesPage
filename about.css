@@ -1,0 +1,32 @@
+body{
+    background-color: #87b1c5;
+    
+    
+   
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+h3{
+    font-size:1.5rem ;
+    margin:3.5rem;
+
+    
+}
+.about{
+    background: rgb(255,255,255,0.30);
+    font-size: 1.5rem;
+    margin:2rem;
+    
+    padding:2rem;
+   
+    border:0.1rem rgb(255,255,255,0.30);
+    border-radius: 4rem;
+
+}
+.support{
+    margin:3.5rem;
+}
+.support:hover{
+    color:rgb(102, 102, 223);
+}
